@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVAWEP/project_b5/web/cart.jsp</file>
+            <file>file:/D:/JAVAWEP/project_b5/src/java/controller/Load/LoadOrderForUser.java</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/login.jsp</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/index.jsp</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/home.jsp</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/checkout.jsp</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/login.js</file>
+            <file>file:/D:/JAVAWEP/project_b5/src/java/filter/AuthenticationFilterCart.java</file>
+            <file>file:/D:/JAVAWEP/project_b5/src/java/filter/AunthenticationFilter.java</file>
+            <file>file:/D:/JAVAWEP/project_b5/src/java/controller/login/ChangeNewPasswordController.java</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/change-newpassword.jsp</file>
+            <file>file:/D:/JAVAWEP/project_b5/web/detail.jsp</file>
+        </group>
+    </open-files>
+</project-private>
